@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vastera
 - 👀 I’m interested in Machine Learing and Algorithm on autonomous vehicles
 - 🌱 I’m currently learning alogorthms
-- 💞️ I’m looking to collaborate on realizing new papers about Machine learning
+- 💞️ I’m looking to collaborate on realizing new papers about Machine Learning
 - 📫 How to reach me :vastera@163.com
 
 <!---
